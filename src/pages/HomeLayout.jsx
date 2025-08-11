@@ -1,7 +1,7 @@
 import React from "react";
 
 const HomeLayout = () => {
-  return <div>HomeLayout</div>;
+  return <h1 className="text-5xl">HomeLayout</h1>;
 };
 
 export default HomeLayout;
